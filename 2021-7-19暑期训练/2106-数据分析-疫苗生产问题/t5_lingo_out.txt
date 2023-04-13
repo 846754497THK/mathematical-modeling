@@ -1,0 +1,63 @@
+  LINGO/WIN64 19.0.24 (26 Oct 2020), LINDO API 13.0.4099.232
+
+  Licensee info: Eval Use Only
+  License expires: 17 FEB 2022
+
+  Global optimal solution found.
+  Objective value:                              312228.3
+  Infeasibilities:                              0.000000
+  Total solver iterations:                             2
+  Elapsed runtime seconds:                          0.13
+
+  Model Class:                                        LP
+
+  Total variables:                     10
+  Nonlinear variables:                  0
+  Integer variables:                    0
+
+  Total constraints:                   25
+  Nonlinear constraints:                0
+
+  Total nonzeros:                      70
+  Nonlinear nonzeros:                   0
+
+
+
+                                Variable           Value        Reduced Cost
+                                      X1        0.000000            9.819107
+                                      X2        500.0000            0.000000
+                                      X3        600.0000            0.000000
+                                      X4        0.000000           0.1268263
+                                      X5        1200.000            0.000000
+                                      X6        1546.861            0.000000
+                                      X7        492.0732            0.000000
+                                      X8        800.0000            0.000000
+                                      X9        600.0000            0.000000
+                                     X10        900.0000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1        312228.3            1.000000
+                                       2        1000.000            0.000000
+                                       3        0.000000            7.500464
+                                       4        0.000000            1.408939
+                                       5        1000.000            0.000000
+                                       6        0.000000            11.64347
+                                       7        53.13886            0.000000
+                                       8        1307.927            0.000000
+                                       9        0.000000            2.848483
+                                      10        0.000000            14.27236
+                                      11        0.000000            4.241975
+                                      12        0.000000            0.000000
+                                      13        500.0000            0.000000
+                                      14        600.0000            0.000000
+                                      15        0.000000            0.000000
+                                      16        1200.000            0.000000
+                                      17        1546.861            0.000000
+                                      18        492.0732            0.000000
+                                      19        800.0000            0.000000
+                                      20        600.0000            0.000000
+                                      21        900.0000            0.000000
+                                      22        0.000000           0.9427237
+                                      23        281.6751            0.000000
+                                      24        7897.096            0.000000
+                                      25        0.000000            1.963532

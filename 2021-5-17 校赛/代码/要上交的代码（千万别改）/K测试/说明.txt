@@ -1,0 +1,5 @@
+test4.txt 原始数据（图）
+
+test4_answer(godsight)是上帝视野的最优解
+
+test4.ki 是k取 k[i]时的 解
